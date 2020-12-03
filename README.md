@@ -25,3 +25,4 @@ Click the gif below to see the full demonstration:
 
 
 ## Links
+Repo: https://github.com/JerronM/team-profile-generator
