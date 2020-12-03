@@ -14,6 +14,7 @@ so that I have quick access to emails and GitHub profiles
 
 ## Demo
 Click the gif below to see the full demonstration:
+<br>
 <a href="https://drive.google.com/file/d/17kpH4vp5N9qlik2Gl7qD3AXkZgDkqvSe/view"><img src="https://github.com/JerronM/team-profile-generator/blob/main/misc/demo.gif"><a>
 
 
