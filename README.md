@@ -2,7 +2,7 @@
 <h1> Team Profile Generator </h1>
 
 ## Description
-
+Node.js command line application which takes user input in order to automatically generate a webpage which contains information on employees. The application promptes the user to input employee names and role and is given further questions based on the selected role. 
 
 ## User Story
 ```
